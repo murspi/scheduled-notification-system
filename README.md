@@ -84,8 +84,6 @@ pip install -r requirements.txt
 
 ## 🔧 Configuration
 
-This project uses two configuration files:
-
 ### `config.example.json`
 
 A **template** file that shows the required structure without containing any real credentials.
