@@ -92,15 +92,6 @@ A **template** file that shows the required structure without containing any rea
 
 Users copy this file and create their own private configuration.
 
-### `config.json`
-
-Your **real configuration file** containing secrets such as:
-
-* Email credentials
-* Telegram bot token
-* Chat ID
-
-This file must **never be committed to GitHub**.
 
 ---
 
