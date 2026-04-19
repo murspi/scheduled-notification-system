@@ -1,0 +1,14 @@
+{
+    "smtp": {
+        "host": "smtp.gmail.com",
+        "port": 587,
+        "username": "your_email@gmail.com",
+        "password": "your_app_password",
+        "from_addr": "your_email@gmail.com",
+        "to_addr": "recipient_email@gmail.com"
+    },
+    "telegram": {
+        "bot_token": "YOUR_TELEGRAM_BOT_TOKEN",
+        "chat_id": "YOUR_CHAT_ID"
+    }
+}
